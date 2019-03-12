@@ -10,3 +10,5 @@ This is pdf to docx file converter script using OCR denoising technique. This sc
 *	autocorrect (pip install autocorrect)
 *	re (pip install regex)
 
+### How to run
+Open pdf2doc.py and change the base path to directorry of your pdfs. Run to get all pdfs in thaat folder converted to word document.
