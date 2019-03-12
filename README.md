@@ -11,4 +11,4 @@ This is pdf to docx file converter script using OCR denoising technique. This sc
 *	re (pip install regex)
 
 ### How to run
-Open pdf2doc.py and change the base path to directory of your pdfs. Run to get all pdfs in that folder converted to word document.
+Open pdf2word.py and change the base path to directory of your pdfs. Run to get all pdfs in that folder converted to word document.
